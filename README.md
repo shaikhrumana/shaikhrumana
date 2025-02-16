@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rumana</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h1 align="center">Hey there 👋, I'm Shaikh Rumana</h1>
+<h3 align="center">I’m a DevOps engineer 🔧 who’s always exploring new tech 💡. I love solving problems and automating solutions 🛠, with a passion for AWS, Linux, and Bash scripting 🌐. As an open-source contributor 💻, I’m always learning 📚 and striving to build something awesome together 🚀.</h3>
+
+- 🌱 I’m currently learning **DevOps tools**
+
+- 👨‍💻 All of my projects are available at [github.com](github.com)
+
+- 💬 Ask me about **Cloud,AWS, Devops**
 
 - 📫 How to reach me **rumanashaikh72498@gmail.com**
+
+- 📄 Know about my experiences [Codage Technologies](Codage Technologies)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
